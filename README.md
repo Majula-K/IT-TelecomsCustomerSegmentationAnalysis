@@ -1,15 +1,18 @@
-# Introduction 
+# IT&Telecoms Customer Segmentation Analysis
+
+## Introduction:
+
 In this project, I conducted a comprehensive analysis of a IT & Telecoms industry dataset using SQL. The primary objective was to derive actionable insights from customer demographics, service usage patterns, and financial performance data. This analysis aims to help stakeholders make informed decisions, improve customer retention, optimise service offerings, and enhance overall business performance.
 
-# Background
+## Background:
 The IT & Telecoms industry is a critical sector that provides essential services such as internet, mobile communication, and data services. With the rapid growth in technology and increasing demand for connectivity, analysing industry data becomes crucial. This project focuses on understanding customer behaviour, service utilisation, and financial metrics through a structured database comprising customer, service, subscription, usage, and payment information.
 
-# Tools I Used
+## Tools I Used
 - SQL: Used for querying and analysing data stored in relational databases.
 - SQL Server Management Studio (SSMS): Used to create and manage the database.
 - Data Visualisation Tools: Power BI.
 
-# The Analysis
+## The Analysis
 The analysis was performed using various SQL queries, addressing different aspects of the data:
 
 Customer Demographics Analysis:
@@ -29,7 +32,7 @@ Churn Analysis:
 Customer Segmentation:
 - Segmented customers based on the services they use, providing insights into customer preferences.
 
-# What I Learned 
+## What I Learned 
 Through this project, I gained a deeper understanding of:
 
 - SQL Proficiency: Improved my skills in writing complex SQL queries, joining tables, and performing aggregations.
@@ -38,7 +41,7 @@ Through this project, I gained a deeper understanding of:
 - Customer Behaviour: Gained insights into customer demographics and usage patterns, helping to identify target segments and service preferences.
 - Data Visualisation: Enhanced my ability to present data visually, making it easier to communicate findings to stakeholders.
 
-# Conclusion
+## Conclusion
 This project provided valuable insights into the IT & Telecoms industry, highlighting several key findings:
 
 - Customer Distribution: The number of customers varies significantly by country, indicating potential markets for expansion or targeted marketing.
